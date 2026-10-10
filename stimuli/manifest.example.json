@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "products": [],
+  "recognitionNewWords": [],
+  "recognitionOld": { "mode": "randomPerSession" },
+  "baselineStages": []
+}
